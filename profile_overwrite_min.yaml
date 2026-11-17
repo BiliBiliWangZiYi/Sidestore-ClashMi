@@ -1,6 +1,7 @@
 tun:
   loopback-address:
     - 10.7.1.1
+    - 10.7.0.1
 dns:
   enable: true
   nameserver:
