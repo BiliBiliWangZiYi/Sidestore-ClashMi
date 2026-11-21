@@ -4,6 +4,9 @@ tun:
     - 10.7.1.1
     - 192.168.1.99
 dns:
-  enable: false
+  enable: true
   nameserver:
-    - https://32ev95ur21.cloudflare-gateway.com/dns-query
+    - dns:
+  enable: true
+  nameserver:
+    - 1.1.1.1
