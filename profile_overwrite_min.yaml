@@ -6,7 +6,4 @@ tun:
 dns:
   enable: true
   nameserver:
-    - dns:
-  enable: true
-  nameserver:
     - 1.1.1.1
